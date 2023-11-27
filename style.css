@@ -1,0 +1,19 @@
+body { background-color: #E0DBF9; color: #15495E;font-family: Arial, Verdana, sans-serif;}
+  h1 { background-color: #C5C1DB; color: #E2FFFF;line-height: 200%;
+ font-family: Georgia, "Times New Roman", serif; 
+ text-indent: 1em;
+ text-shadow: 3px 3px 5px #000000;
+      text-align: center;}
+  h2 { background-color: #B6B4C2; color: mintcream; font-family: Georgia, "Times New Roman", serif;
+ text-align: center;}
+  nav { font-weight: bold;
+    font-size: 1.25em;
+  word-spacing: 1em; }
+  p { font-size: .90em;
+text-indent: 3em; }
+  ul { font-weight: bold; }
+  nav a { text-decoration: none; }
+  .feature { color: #C70000; }
+  footer { color: #333333;
+       font-size: .75em;
+       font-style: italic; }
